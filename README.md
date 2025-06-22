@@ -1,4 +1,4 @@
-`# 📊 Analiza danych IR (podczerwień) – Python
+# 📊 Analiza danych IR (podczerwień) – Python
 
 Projekt służy do analizy widm absorpcyjnych uzyskanych z eksperymentu IR (np. FTIR). Skrypt analizuje dane z wielu próbek, wykrywa piki absorpcji, tworzy wykresy oraz eksportuje wyniki.
 
