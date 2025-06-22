@@ -15,12 +15,9 @@ Projekt służy do analizy widm absorpcyjnych uzyskanych z eksperymentu IR (np. 
 
 ## Przykładowe wykresy
 
-![alt text](plots/widmo_122.png)
-
 ![alt text](widmo_4.png)
 
-
-
+![alt text](widmo_122.png)
 
 ---
 
